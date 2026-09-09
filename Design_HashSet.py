@@ -5,7 +5,7 @@
 
 
 // Your code here along with comments explaining your approach
-I have used Double Hashing to implement HashSet
+#I have used Double Hashing to implement HashSet
 
 class MyHashSet:
 
