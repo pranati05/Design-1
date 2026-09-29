@@ -1,10 +1,10 @@
-// Time Complexity : O(1)
-// Space Complexity : O(1)
-// Did this code successfully run on Leetcode : Yes
-// Any problem you faced while coding this : No
+# Time Complexity : O(1)
+# Space Complexity : O(1)
+# Did this code successfully run on Leetcode : Yes
+# Any problem you faced while coding this : No
 
 
-// Your code here along with comments explaining your approach
+# Your code here along with comments explaining your approach
 #I have used Double Hashing to implement HashSet
 
 class MyHashSet:
